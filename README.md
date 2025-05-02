@@ -32,7 +32,6 @@ The player can use swords, bows, and magical staves while battling various enemi
 - **WASD / Arrow Keys**: Move character  
 - **Mouse click / Space**: Attack  
 - **1, 2, 3**: Switch weapons  
-- **E**: Interact with objects  
 
 ## 🗂 Project Structure
 
