@@ -4,7 +4,7 @@ _A 2D top-down RPG adventure game developed in Unity 2022.3.3f1._
 
 ## 📖 About
 
-This project is a 2D action RPG featuring combat with multiple weapons, enemy AI, and exploration across interconnected environments.  
+This project is a 2D action RPG featuring combat with multiple weapons, enemys, and exploration across interconnected environments.  
 The player can use swords, bows, and magical staves while battling various enemies like slimes and ghosts.
 
 ## ✨ Features
